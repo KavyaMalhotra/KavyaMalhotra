@@ -1,10 +1,3 @@
-```
-> booting profile...  
-> system user: Kavya Malhotra  
-> role: FullStack Developer | Research Enthusiast  
-> status: Active & Building
-```
-
 # Hi, I'm Kavya Malhotra 👋  
 💻 Computer Science Undergrad | FullStack Developer | Research Enthusiast
 
