@@ -1,5 +1,12 @@
-<h1 align="center">Hi, I'm <span style="color:#4CAF50">Kavya Malhotra</span> 👋</h1>
-<p align="center">💻 Computer Science Undergrad | FullStack Developer | Research Enthusiast</p>
+```
+> booting profile...  
+> system user: Kavya Malhotra  
+> role: FullStack Developer | Research Enthusiast  
+> status: Active & Building
+```
+
+# Hi, I'm Kavya Malhotra 👋  
+💻 Computer Science Undergrad | FullStack Developer | Research Enthusiast
 
 ---
 
@@ -34,10 +41,8 @@
 ---
 
 ### 📫 Let's Connect
-<p align="left">
-  📧 <a href="mailto:Kavyamalhotra2903@gmail.com">Kavyamalhotra2903@gmail.com</a> <br>
-  💼 <a href="https://www.linkedin.com/in/kavya-malhotra-99901a34b/">LinkedIn Profile</a> <br>
-</p>
+📧 [Kavyamalhotra2903@gmail.com](mailto:Kavyamalhotra2903@gmail.com)  
+💼 [LinkedIn Profile](https://www.linkedin.com/in/kavya-malhotra-99901a34b/)
 
 ---
 
