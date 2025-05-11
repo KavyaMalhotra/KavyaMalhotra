@@ -34,7 +34,7 @@
 ---
 
 ### 📫 Let's Connect
-🔗 [My Portfolio](https://portfolio-five-sandy-99.vercel.app/)
+🔗 [My Portfolio](https://portfolio-five-sandy-99.vercel.app/)  
 📧 [Kavyamalhotra2903@gmail.com](mailto:Kavyamalhotra2903@gmail.com)  
 💼 [LinkedIn Profile](https://www.linkedin.com/in/kavya-malhotra-99901a34b/)
 
